@@ -5,7 +5,7 @@ bot = commands.Bot(
     [
         "-",
     ],
-    description="ぶ ろ ん ず だ よ ♪よ ろ し く ね ♪",
+    description="ぶろんずだよ♪よろしくね♪",
 )
 @bot.event
 async def setup_hook():
